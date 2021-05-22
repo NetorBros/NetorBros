@@ -1,0 +1,2 @@
+C:\Users\fcffc\source\repos\XWAempy\XWAempy\obj\Debug\XWAempy.csprojAssemblyReference.cache
+C:\Users\fcffc\source\repos\XWAempy\XWAempy\obj\Debug\XWAempy.csproj.CoreCompileInputs.cache
